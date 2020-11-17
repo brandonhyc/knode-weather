@@ -1,5 +1,5 @@
 {
-  "name": "Knode Weather",
+  "name": "knode-weather",
   "version": "1.0.0",
   "description": "Basic weather forecast webapp React, Node.js, Express and Webpack",
   "main": "src/server/index.js",
